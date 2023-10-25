@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="con-Web.config Connection String" description="con Connection String used in web.config by the application to access the database." defaultValue="Data Source=DESKTOP-KQQHHP5\SQLEXPRESS;Initial Catalog=Gro;Integrated Security=true" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="M:\\1\\FinalUpdateProject\\FinalUpdateProject\\Gro\ updated\\Gro\ \(2\)\\Gro\\LoginGrocery\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='con']/@connectionString" />
+  </parameter>
+  <parameter name="GroConnectionString-Web.config Connection String" description="GroConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=DESKTOP-KQQHHP5\SQLEXPRESS;Initial Catalog=Gro;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="M:\\1\\FinalUpdateProject\\FinalUpdateProject\\Gro\ updated\\Gro\ \(2\)\\Gro\\LoginGrocery\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GroConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="GroConnectionString2-Web.config Connection String" description="GroConnectionString2 Connection String used in web.config by the application to access the database." defaultValue="Data Source=DESKTOP-KQQHHP5\SQLEXPRESS;Initial Catalog=Gro;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="M:\\1\\FinalUpdateProject\\FinalUpdateProject\\Gro\ updated\\Gro\ \(2\)\\Gro\\LoginGrocery\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GroConnectionString2']/@connectionString" />
+  </parameter>
+</parameters>

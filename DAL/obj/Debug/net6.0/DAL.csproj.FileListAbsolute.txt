@@ -1,0 +1,59 @@
+M:\1\Gro\DAL\bin\Debug\net6.0\DAL.deps.json
+M:\1\Gro\DAL\bin\Debug\net6.0\DAL.dll
+M:\1\Gro\DAL\bin\Debug\net6.0\DAL.pdb
+M:\1\Gro\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+M:\1\Gro\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+M:\1\Gro\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+M:\1\Gro\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+M:\1\Gro\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+M:\1\Gro\DAL\obj\Debug\net6.0\DAL.dll
+M:\1\Gro\DAL\obj\Debug\net6.0\refint\DAL.dll
+M:\1\Gro\DAL\obj\Debug\net6.0\DAL.pdb
+M:\1\Gro\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\91849\Downloads\Gro (2)\Gro\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\91849\Downloads\Gro (2)\Gro\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\91849\Downloads\Gro (2)\Gro\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\91849\Downloads\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91849\Downloads\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\91849\Downloads\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\91849\Downloads\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\91849\Downloads\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\91849\Downloads\Gro (2)\Gro\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\91849\Downloads\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\91849\Downloads\Gro (2)\Gro\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\KIIT\Desktop\Re-RLL\Gro updated\Gro (2)\Gro\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\KIIT\Desktop\Re-RLL\Gro updated\Gro (2)\Gro\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\KIIT\Desktop\Re-RLL\Gro updated\Gro (2)\Gro\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\KIIT\Desktop\Re-RLL\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Re-RLL\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Re-RLL\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Re-RLL\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Re-RLL\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Re-RLL\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\KIIT\Desktop\Re-RLL\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\KIIT\Desktop\Re-RLL\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\KIIT\Desktop\Re-RLL\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\KIIT\Desktop\Re-RLL\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\KIIT\Desktop\Re-RLL\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\KIIT\Desktop\Re-RLL\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\KIIT\Desktop\Re-RLL\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Re-RLL\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Re-RLL\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Re-RLL\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Re-RLL\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Re-RLL\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\KIIT\Desktop\Re-RLL\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\KIIT\Desktop\Re-RLL\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\KIIT\Desktop\Re-RLL\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\ref\DAL.dll
+M:\1\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\bin\Debug\net6.0\DAL.deps.json
+M:\1\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\bin\Debug\net6.0\DAL.dll
+M:\1\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\bin\Debug\net6.0\DAL.pdb
+M:\1\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+M:\1\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+M:\1\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+M:\1\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+M:\1\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+M:\1\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.dll
+M:\1\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\refint\DAL.dll
+M:\1\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\DAL.pdb
+M:\1\FinalUpdateProject\FinalUpdateProject\Gro updated\Gro (2)\Gro\DAL\obj\Debug\net6.0\ref\DAL.dll
